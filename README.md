@@ -22,11 +22,17 @@ The framework is structured to separate concerns and promote reusability:
 UI-test-framework
 
 ├── Pages   → Page Objects (UI interactions)
+
 ├── Tests   → Test cases (UI & API)
+
 ├── API     → API clients and services
+
 ├── Models  → Data models / DTOs
+
 ├── Utils   → Helpers, utilities, configuration
+
 ├── Drivers → WebDriver setup and management
+
 └── Config  → Environment configuration
 
 
