@@ -29,6 +29,7 @@ UI-test-framework
 ├── Drivers → WebDriver setup and management
 └── Config  → Environment configuration
 
+
  Key Principles:
 *  Separation of concerns
 *  Reusable components
